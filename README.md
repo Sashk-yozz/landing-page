@@ -1,2 +1,2 @@
 # Landing-page
-On this project i use only HTML + CSS and Bootstrap
+On this project i use HTML + CSS and Bootstrap
